@@ -98,7 +98,6 @@ class FrameworkStub(BaseAPIModelStub):
             "family": family,
             "hasDirectAward": has_direct_award,
             "hasFurtherCompetition": has_further_competition,
-            'isESignatureSupported': False,
             "lots": lots
         }
 
